@@ -1,0 +1,13 @@
+<ordersUpdateRequest xmlns="http://www.marketplacefactory/api.xsd">
+  <orders>
+  	<order>
+		<orderId>3805</orderId>
+		<status>Accepted</status>
+  	</order>
+	<order>
+		<orderId>3807</orderId>
+		<status>Shipped</status>
+		<trackingNumber>TN126578</trackingNumber>
+  	</order>
+  </orders>
+</ordersUpdateRequest>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<batchResponse xmlns="http://www.marketplacefactory/api.xsd">
+   <batchId>ae525915-938f-4445-9eb7-586821de25c7</batchId>
+   <dateCreated>2012-09-27T12:43:48</dateCreated>
+   <dateStarted>2012-09-27T12:43:50</dateStarted>
+   <dateFinished>2012-09-27T12:43:52</dateFinished>
+   <status>Done</status>
+   <catalogItems>
+      <catalogItem>
+         <message>Done</message>
+         <mpId>33938</mpId>
+         <offerId>34120</offerId>
+         <sku>42</sku>
+         <status>Done</status>
+      </catalogItem>
+      <catalogItem>
+         <message>Done</message>
+         <mpId>33939</mpId>
+         <offerId>34121</offerId>
+         <sku>21</sku>
+         <status>Done</status>
+      </catalogItem>
+      <catalogItem>
+         <message>Done</message>
+         <mpId>33940</mpId>
+         <offerId>34122</offerId>
+         <sku>590</sku>
+         <status>Done</status>
+      </catalogItem>
+   </catalogItems>
+</batchResponse>

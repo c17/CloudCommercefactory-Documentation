@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalogRequest xmlns="http://www.marketplacefactory/api.xsd">
+   <catalogItems>
+   <catalogItem>
+      <offer>
+        <deliveryModes>
+          <deliveryMode>
+            <name><![CDATA[Transporteur]]></name>
+            <price><![CDATA[0]]></price>
+          </deliveryMode>
+        </deliveryModes>
+        <price><![CDATA[216.92]]></price>
+        <shippingDelay><![CDATA[2]]></shippingDelay>
+        <sku><![CDATA[61]]></sku>
+        <stock><![CDATA[34]]></stock>
+      </offer>
+      <product>
+        <brand><![CDATA[Clear Seat]]></brand>
+        <categories>
+          <category><![CDATA[Table en Verre]]></category>
+        </categories>
+        <description><![CDATA[Table en Verre Spider 120 X 70 cm avec Tablette  Plateau en verre Trempé 12 mm finition chanfrein  Tablette Ovale en verre transparent.  Pieds chromés incurvés  Cette Table en Verre Spider 120 X 70 cm avec Tablette joue l\'originalité avec ses pieds incurvés  et sa tablette ovale. C\'est un modèle que vous ne verrez pas chez tout le monde !                   - Table en Verre Spider 120 X 70 cm avec Tablette  Dimension de la table  120 X 70 cm  Hauteur: 75 cm  Epaisseur du verre: 12 mm  Hauteur de la tablette par rapport au sol: 61 cm                  ]]></description>
+        <ean><![CDATA[3700715701632]]></ean>
+        <images>
+          <url><![CDATA[http://www.lagrosseboutique.com/images/articles/photos/table_en_verre_spider_120_x_70_cm_avec_tablette_1_7680.jpg]]></url>
+        </images>
+        <title><![CDATA[Table en Verre Spider 120 X 70 cm avec Tablette]]></title>
+      </product>
+    </catalogItem>
+	<catalogItem>
+      <offer>
+        <deliveryModes>
+          <deliveryMode>
+            <name><![CDATA[Transporteur]]></name>
+            <price><![CDATA[0]]></price>
+          </deliveryMode>
+        </deliveryModes>
+		<itemization>
+			<property>
+				<name>Size</name><value>XL</value>
+			</property>
+			<property>
+				<name>Color</name><value>Red</value>
+			</property>
+		</itemization>
+		<parentSku>61</parentSku>
+        <price><![CDATA[216.92]]></price>
+        <shippingDelay><![CDATA[2]]></shippingDelay>
+        <sku><![CDATA[61-M-Red]]></sku>
+        <stock><![CDATA[34]]></stock>
+      </offer>
+      <product>
+        <brand><![CDATA[Clear Seat]]></brand>
+        <categories>
+          <category><![CDATA[Table en Verre]]></category>
+        </categories>
+        <description><![CDATA[Table en Verre Spider 120 X 70 cm avec Tablette  Plateau en verre Trempé 12 mm finition chanfrein  Tablette Ovale en verre transparent.  Pieds chromés incurvés  Cette Table en Verre Spider 120 X 70 cm avec Tablette joue l\'originalité avec ses pieds incurvés  et sa tablette ovale. C\'est un modèle que vous ne verrez pas chez tout le monde !                   - Table en Verre Spider 120 X 70 cm avec Tablette  Dimension de la table  120 X 70 cm  Hauteur: 75 cm  Epaisseur du verre: 12 mm  Hauteur de la tablette par rapport au sol: 61 cm                  ]]></description>
+        <ean><![CDATA[3700715701632]]></ean>
+        <images>
+          <url><![CDATA[http://www.lagrosseboutique.com/images/articles/photos/table_en_verre_spider_120_x_70_cm_avec_tablette_1_7680.jpg]]></url>
+        </images>
+        <title><![CDATA[Table en Verre Spider 120 X 70 cm avec Tablette]]></title>
+      </product>
+    </catalogItem>
+	<catalogItem>
+      <offer>
+        <deliveryModes>
+          <deliveryMode>
+            <name><![CDATA[Transporteur]]></name>
+            <price><![CDATA[0]]></price>
+          </deliveryMode>
+        </deliveryModes>
+		<itemization>
+			<property>
+				<name>Size</name><value>L</value>
+			</property>
+			<property>
+				<name>Color</name><value>Green</value>
+			</property>
+		</itemization>
+		<parentSku>61</parentSku>
+        <price><![CDATA[216.92]]></price>
+        <shippingDelay><![CDATA[2]]></shippingDelay>
+        <sku><![CDATA[61-L-Red]]></sku>
+        <stock><![CDATA[34]]></stock>
+      </offer>
+      <product>
+        <brand><![CDATA[Clear Seat]]></brand>
+        <categories>
+          <category><![CDATA[Table en Verre]]></category>
+        </categories>
+        <description><![CDATA[Table en Verre Spider 120 X 70 cm avec Tablette  Plateau en verre Trempé 12 mm finition chanfrein  Tablette Ovale en verre transparent.  Pieds chromés incurvés  Cette Table en Verre Spider 120 X 70 cm avec Tablette joue l\'originalité avec ses pieds incurvés  et sa tablette ovale. C\'est un modèle que vous ne verrez pas chez tout le monde !                   - Table en Verre Spider 120 X 70 cm avec Tablette  Dimension de la table  120 X 70 cm  Hauteur: 75 cm  Epaisseur du verre: 12 mm  Hauteur de la tablette par rapport au sol: 61 cm                  ]]></description>
+        <ean><![CDATA[3700715701632]]></ean>
+        <images>
+          <url><![CDATA[http://www.lagrosseboutique.com/images/articles/photos/table_en_verre_spider_120_x_70_cm_avec_tablette_1_7680.jpg]]></url>
+        </images>
+        <title><![CDATA[Table en Verre Spider 120 X 70 cm avec Tablette]]></title>
+      </product>
+    </catalogItem>
+    <catalogItem>
+      <offer>
+        <deliveryModes>
+          <deliveryMode>
+            <name>Colissimo</name>
+            <price>8.00</price>
+          </deliveryMode>
+        </deliveryModes>
+        <price>54.95</price>
+		<shippingDelay>5</shippingDelay>
+        <sku>42</sku>
+        <stock>200</stock>
+      </offer>
+      <product>
+        <brand>Macron</brand>
+        <categories>
+          <category><![CDATA[Vêtements et accessoires]]></category>
+          <category><![CDATA[Vêtements]]></category>
+        </categories>
+        <description><![CDATA[GANTS DE GARDIEN ZERO MACRON COMPOSITION : Wet + Dry latex TAILLES : Senior - 8 8.5 9 9.5 10 10.5 11]]></description>
+        <ean>1234567890123</ean>
+		<images>
+          <url>http://www.laboutiquesport.com/42-197-large/gants-de-gardien-zero-macron.jpg</url>
+        </images>
+		<mpn>MA-TEST</mpn>
+		<partnerId>123</partnerId>
+        <title><![CDATA[Gants de Gardien Zero MACRON - test]]></title>
+      </product>
+    </catalogItem>
+    <catalogItem>
+      <offer>
+        <deliveryModes>
+          <deliveryMode>
+            <name>Colissimo</name>
+            <price>8.00</price>
+          </deliveryMode>
+        </deliveryModes>
+		<options>
+			<option>
+				<name>S</name>
+				<stock>100</stock>
+			</option>
+			<option>
+				<name>M</name>
+				<stock>100</stock>
+			</option>
+			<option>
+				<name>L</name>
+				<stock>100</stock>
+			</option>
+		</options>
+		<optionsName>taille</optionsName>
+        <price>157.95</price>
+		<shippingDelay>5</shippingDelay>
+        <sku>21</sku>
+      </offer>
+      <product>
+        <brand>Macron</brand>
+        <categories>
+          <category><![CDATA[Vêtements et accessoires]]></category>
+          <category><![CDATA[Vêtements]]></category>
+        </categories>
+        <description><![CDATA[10 SACS A BALLONS TACOMA MACRON  COMPOSITION: 100% Polyester CAPACITE : 12 Ballons par sac]]></description>
+        <images>
+          <url>http://www.laboutiquesport.com/21-619-large/10x-tacoma-macron.jpg</url>
+        </images>
+        <title><![CDATA[10x Tacoma MACRON - test]]></title>
+      </product>
+    </catalogItem>
+    <catalogItem>
+      <offer>
+        <deliveryModes>
+          <deliveryMode>
+            <name>Colissimo</name>
+            <price>8.00</price>
+          </deliveryMode>
+        </deliveryModes>
+        <price>149.95</price>
+        <sku>590</sku>
+        <stock>100</stock>
+      </offer>
+      <product>
+        <brand>Joma</brand>
+        <categories>
+          <category><![CDATA[Vêtements et accessoires]]></category>
+          <category><![CDATA[Vêtements]]></category>
+        </categories>
+        <description><![CDATA[Jeu de 15 maillots CHAMPION JOMA Bleu/Blanc DESCRIPTION: Maillot de Football Manches Courtes COMPOSITION: 100% Polyester, Joma DRYMAX Technologie]]></description>
+        <images>
+          <url>http://www.laboutiquesport.com/590-1427-large/15-maillots-champion-joma-bleu-blanc.jpg</url>
+        </images>
+        <title><![CDATA[15 Maillots Champion JOMA Bleu/blanc - test]]></title>
+      </product>
+    </catalogItem>
+  </catalogItems>
+  <userId>5301a868-c1b5-442a-86ea-45749d590309</userId>
+</catalogRequest>

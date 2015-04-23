@@ -1,0 +1,113 @@
+<orders xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.marketplacefactory/api.xsd">
+   <pageIndex>1</pageIndex>
+   <pageSize>50</pageSize>
+   <recordsReturned>4</recordsReturned>
+   <startIndex>1</startIndex>
+   <totalRecords>4</totalRecords>
+   <orders>
+      <order>
+         <billingAddress>94</billingAddress>
+         <billingCity>Paris</billingCity>
+         <billingName>Pierre Murasso</billingName>
+         <billingPostcode>90873</billingPostcode>
+         <customerName>Pierre Murasso</customerName>
+         <date>2012-10-14T12:49:00</date>
+         <deliveryAddress>94</deliveryAddress>
+         <deliveryCity>Paris</deliveryCity>
+         <deliveryName>Pierre Murasso</deliveryName>
+         <deliveryPostcode>90873</deliveryPostcode>
+         <orderId>3804</orderId>
+         <products>
+            <product>
+               <brand>Adidas</brand>
+               <image>http://images.mpf.local.c17e.com/Images_content/products_33800_image1_Medium.jpg</image>
+               <offerId>33986</offerId>
+               <price>24.50</price>
+               <productId>1740</productId>
+               <quantity>1</quantity>
+               <sku>25750-fr</sku>
+               <title>Maillot adidas minikit rz a black suns garçon noir</title>
+            </product>
+         </products>
+         <status>Waiting</status>
+      </order>
+      <order>
+         <billingAddress>94</billingAddress>
+         <billingCity>Paris</billingCity>
+         <billingName>Pierre Murasso</billingName>
+         <billingPostcode>90873</billingPostcode>
+         <customerName>Pierre Murasso</customerName>
+         <date>2012-10-14T13:59:00</date>
+         <deliveryAddress>94</deliveryAddress>
+         <deliveryCity>Paris</deliveryCity>
+         <deliveryName>Pierre Murasso</deliveryName>
+         <deliveryPostcode>90873</deliveryPostcode>
+         <orderId>3805</orderId>
+         <products>
+            <product>
+               <brand>Adidas</brand>
+               <image>http://images.mpf.local.c17e.com/Images_content/products_33799_image1_Medium.jpg</image>
+               <offerId>33985</offerId>
+               <price>12.50</price>
+               <productId>1741</productId>
+               <quantity>1</quantity>
+               <sku>25882-fr</sku>
+               <title>Portefeuille  adidas w p ess wallet strongpink femme violet/mauve</title>
+            </product>
+         </products>
+         <status>Waiting</status>
+      </order>
+      <order>
+         <billingAddress>94</billingAddress>
+         <billingCity>Paris</billingCity>
+         <billingName>Pierre Murasso</billingName>
+         <billingPostcode>90873</billingPostcode>
+         <customerName>Pierre Murasso</customerName>
+         <date>2012-10-14T14:01:00</date>
+         <deliveryAddress>94</deliveryAddress>
+         <deliveryCity>Paris</deliveryCity>
+         <deliveryName>Pierre Murasso</deliveryName>
+         <deliveryPostcode>90873</deliveryPostcode>
+         <orderId>3806</orderId>
+         <products>
+            <product>
+               <brand>Adidas</brand>
+               <image>http://images.mpf.local.c17e.com/Images_content/products_33799_image1_Medium.jpg</image>
+               <offerId>33985</offerId>
+               <price>12.50</price>
+               <productId>1742</productId>
+               <quantity>1</quantity>
+               <sku>25882-fr</sku>
+               <title>Portefeuille  adidas w p ess wallet strongpink femme violet/mauve</title>
+            </product>
+         </products>
+         <status>Waiting</status>
+      </order>
+      <order>
+         <billingAddress>94</billingAddress>
+         <billingCity>Paris</billingCity>
+         <billingName>Pierre Murasso</billingName>
+         <billingPostcode>90873</billingPostcode>
+         <customerName>Pierre Murasso</customerName>
+         <date>2012-10-14T14:09:00</date>
+         <deliveryAddress>94</deliveryAddress>
+         <deliveryCity>Paris</deliveryCity>
+         <deliveryName>Pierre Murasso</deliveryName>
+         <deliveryPostcode>90873</deliveryPostcode>
+         <orderId>3807</orderId>
+         <products>
+            <product>
+               <brand>Adidas</brand>
+               <image>http://images.mpf.local.c17e.com/Images_content/products_33799_image1_Medium.jpg</image>
+               <offerId>33985</offerId>
+               <price>12.50</price>
+               <productId>1743</productId>
+               <quantity>1</quantity>
+               <sku>25882-fr</sku>
+               <title>Portefeuille  adidas w p ess wallet strongpink femme violet/mauve</title>
+            </product>
+         </products>
+         <status>Waiting</status>
+      </order>
+   </orders>
+</orders>

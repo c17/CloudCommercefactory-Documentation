@@ -1,0 +1,11 @@
+<ordersUpdateResponse xmlns="http://www.marketplacefactory/api.xsd">
+   <orders>
+      <order>
+         <code>ERR_03</code>
+         <description>Can't update this order status, the previous status was already the same</description>
+         <orderId>3805</orderId>
+         <productsError/>
+         <status>ERROR</status>
+      </order>
+   </orders>
+</ordersUpdateResponse>

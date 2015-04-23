@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalogRequest xmlns="http://www.marketplacefactory/api.xsd">
+   <catalogItems>
+    <catalogItem>
+      <offer>
+        <deliveryModes>
+          <deliveryMode>
+            <name>Colissimo</name>
+            <price>8.00</price>
+          </deliveryMode>
+        </deliveryModes>
+        <price>54.95</price>
+        <sku>42</sku>
+        <stock>200</stock>
+      </offer>
+      <product>
+        <brand>Macron</brand>
+        <categories>
+          <category><![CDATA[Vêtements et accessoires]]></category>
+          <category><![CDATA[Vêtements]]></category>
+        </categories>
+        <description><![CDATA[GANTS DE GARDIEN ZERO MACRON COMPOSITION : Wet + Dry latex TAILLES : Senior - 8 8.5 9 9.5 10 10.5 11]]></description>
+		<ean>1234567890123</ean>
+        <images>
+          <url>http://www.laboutiquesport.com/42-197-large/gants-de-gardien-zero-macron.jpg</url>
+        </images>
+		<mpn>MA-TEST</mpn>
+        <title><![CDATA[Gants de Gardien Zero MACRON - test]]></title>
+      </product>
+    </catalogItem>
+    <catalogItem>
+      <offer>
+        <deliveryModes>
+          <deliveryMode>
+            <name>Colissimo</name>
+            <price>8.00</price>
+          </deliveryMode>
+        </deliveryModes>
+        <price>157.95</price>
+        <sku>21</sku>
+        <stock>100</stock>
+      </offer>
+      <product>
+        <brand>Macron</brand>
+        <categories>
+          <category><![CDATA[Vêtements et accessoires]]></category>
+          <category><![CDATA[Vêtements]]></category>
+        </categories>
+        <description><![CDATA[10 SACS A BALLONS TACOMA MACRON  COMPOSITION: 100% Polyester CAPACITE : 12 Ballons par sac]]></description>
+        <images>
+          <url>http://www.laboutiquesport.com/21-619-large/10x-tacoma-macron.jpg</url>
+        </images>
+        <title><![CDATA[10x Tacoma MACRON - test]]></title>
+      </product>
+    </catalogItem>
+    <catalogItem>
+      <offer>
+        <deliveryModes>
+          <deliveryMode>
+            <name>Colissimo</name>
+            <price>8.00</price>
+          </deliveryMode>
+        </deliveryModes>
+        <price>149.95</price>
+        <sku>590</sku>
+        <stock>100</stock>
+      </offer>
+      <product>
+        <brand>Joma</brand>
+        <categories>
+          <category><![CDATA[Vêtements et accessoires]]></category>
+          <category><![CDATA[Vêtements]]></category>
+        </categories>
+        <description><![CDATA[Jeu de 15 maillots CHAMPION JOMA Bleu/Blanc DESCRIPTION: Maillot de Football Manches Courtes COMPOSITION: 100% Polyester, Joma DRYMAX Technologie]]></description>
+        <images>
+          <url>http://www.laboutiquesport.com/590-1427-large/15-maillots-champion-joma-bleu-blanc.jpg</url>
+        </images>
+        <title><![CDATA[15 Maillots Champion JOMA Bleu/blanc - test]]></title>
+      </product>
+    </catalogItem>
+  </catalogItems>
+  <userId>5301a868-c1b5-442a-86ea-45749d590309</userId>
+</catalogRequest>
