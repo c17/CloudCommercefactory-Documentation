@@ -1,6 +1,6 @@
 <?
 
-$url = 'http://api.glamour.dev1.c17e.com/orders';
+$url = 'http://api.cloudcommercefactory.com/orders';
 $method = 'POST';
 $privateKey = 'F302A000-FB41-4C14-B9D4-BEBF8D24C909';
 $apiId = 'A1B7583B-0613-4768-AF07-E0CA639A698B';

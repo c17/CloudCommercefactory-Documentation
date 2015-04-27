@@ -1,4 +1,4 @@
-<orders xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.marketplacefactory/api.xsd">
+<orders xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.cloudcommercefactory/api.xsd">
    <pageIndex>1</pageIndex>
    <pageSize>50</pageSize>
    <recordsReturned>4</recordsReturned>

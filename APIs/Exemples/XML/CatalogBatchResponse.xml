@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<batchResponse xmlns="http://www.marketplacefactory/api.xsd">
+<batchResponse xmlns="http://www.cloudcommercefactory/api.xsd">
    <batchId>ae525915-938f-4445-9eb7-586821de25c7</batchId>
    <dateCreated>2012-09-27T12:43:48</dateCreated>
    <dateStarted>2012-09-27T12:43:50</dateStarted>

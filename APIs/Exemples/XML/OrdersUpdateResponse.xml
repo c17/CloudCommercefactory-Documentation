@@ -1,4 +1,4 @@
-<ordersUpdateResponse xmlns="http://www.marketplacefactory/api.xsd">
+<ordersUpdateResponse xmlns="http://www.cloudcommercefactory/api.xsd">
    <orders>
       <order>
          <code>ERR_03</code>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<catalogRequest xmlns="http://www.marketplacefactory/api.xsd">
+<catalogRequest xmlns="http://www.cloudcommercefactory/api.xsd">
    <catalogItems>
    <catalogItem>
       <offer>

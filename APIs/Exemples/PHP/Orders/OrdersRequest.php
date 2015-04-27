@@ -1,8 +1,8 @@
 <?
 
-$url = 'http://api.glamour.dev1.c17e.com/orders';
+$url = 'http://api.cloudcommercefactory.com/orders';
 //Avec les paramètres facultatifs
-//$url = 'http://api.glamour.dev1.c17e.com/orders?orderId=3832&status=Waiting&dateStart=2012-10-01&dateEnd=2012-12-01&customerName=Pierre';
+//$url = 'http://api.cloudcommercefactory.com/orders?orderId=3832&status=Waiting&dateStart=2012-10-01&dateEnd=2012-12-01&customerName=Pierre';
 //status=Cancelled or Waiting or Accepted or Shipped
 $method = 'GET';
 $privateKey = 'F302A000-FB41-4C14-B9D4-BEBF8D24C909';

@@ -1,4 +1,4 @@
-<ordersUpdateRequest xmlns="http://www.marketplacefactory/api.xsd">
+<ordersUpdateRequest xmlns="http://www.cloudcommercefactory/api.xsd">
   <orders>
   	<order>
   		<comment>Test</comment>
