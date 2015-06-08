@@ -1,3 +1,7 @@
+### Changelog of 08/06/2015
+
+- Modules loading, allowing users to create their own modules more easily. This is a big change, please refers to Functionnal and Technical documentation for more information.
+
 ### Changelog of 13/05/2015
 
 - Adding a feature allowing the modification of jobs parameters and scheduling via ABO
