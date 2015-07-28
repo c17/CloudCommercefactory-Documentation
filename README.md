@@ -1,3 +1,7 @@
+### Changelog of 09/06/2015
+
+- Fix a bug linked to Facebook module, the assembly was not compiled as a module
+
 ### Changelog of 08/06/2015
 
 - Modules loading, allowing users to create their own modules more easily. This is a big change, please refers to Functionnal and Technical documentation for more information.
