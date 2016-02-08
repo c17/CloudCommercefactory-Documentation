@@ -1,3 +1,13 @@
+### Changelog of 08/02/2016
+
+#### features:
+
+- [FRONT] major design improvments on default theme
+- [FRONT] home page blocks are now manageable through ABO (you need to run the SQL scripts included in DeliveryPackage/75.HomeBlocks)
+
+#### fix:
+- [MODULES][MPF.PAYMENT.PAYPAL] minor fix of the module
+
 ### Changelog of 10/11/2015
 
 #### features:
@@ -5,6 +15,7 @@
 - [FRONT] frontoffice translation (merchant backoffice not fully done)
 - [FRONT] categories pictures are now available in all the pages (in ViewBag.LayoutParameters.AllCategoriesList)
 - [FRONT] in cart tunnel, delivery address id is passed to the view if user has already selected one
+- [BACK] large refinement of merchant payment management, you will need to run the SQL scripts included in DeliveryPackage/06.SQL: 03.OrderMerchant/01.AddColumnOrdersMerchantCommissionsDueDate.sql, 73.MerchantPayment/*.sql and 74.OrdersMechantCommissions/*.sql
 - [BACK] add link to cron syntax and cron creation tool in jobs planification page
 - [BACK] add main checkbox to select all checkboxes in tables
 - [FRONT / BACK] add LESS edition feature, which allows you to edit the css sheets of your site
