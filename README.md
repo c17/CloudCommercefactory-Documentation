@@ -1,3 +1,10 @@
+### Changelog of 18/02/2016
+
+#### features:
+
+- [FRONT] design improvements on default theme
+- [MODULES][MPF.PAYMENT.PAYPAL] update protocol used by Paypal module following Paypal security update
+
 ### Changelog of 08/02/2016
 
 #### features:
