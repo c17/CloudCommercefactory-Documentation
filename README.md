@@ -1,3 +1,10 @@
+### Changelog of 30/03/2016
+
+#### fix:
+
+- [ALL] : fix various compilation warnings, disabling some of them in case they were unavoidable (variables instanciated by IOC...)
+- [ALL] : add SkipPostSharp attribute to various projects in which postsharp was not needed
+
 ### Changelog of 24/03/2016
 
 #### features:
